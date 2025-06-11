@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/alexandreribeiro/Área de Trabalho/Curso/Secao06/famp-06/bin/python3" "$0" "$@"
+'''exec' "/home/dev/Área de trabalho/FastAPI/Secao06/famp-06/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
